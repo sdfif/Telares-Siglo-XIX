@@ -1,3 +1,9 @@
 # Telares del Siglo XIX
 
-Bienvenidos a una exploración sobre los telares del siglo XIX, su impacto tecnológico, social y en la industria textil.
+## Contenido
+- [Evolución Tecnológica](#evolucion-tecnologica)
+- [Impacto en la Industria Textil](#impacto-en-la-industria-textil)
+- [Cambios Sociales Asociados](#cambios-sociales-asociados)
+
+## Introducción
+Los telares del siglo XIX revolucionaron la industria textil y cambiaron la sociedad.
